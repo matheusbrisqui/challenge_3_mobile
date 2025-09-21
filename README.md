@@ -51,7 +51,7 @@ src/
 
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/SEU-USUARIO/InvestSmart.git
+   git clone https://github.com/matheusbrisqui/challenge_3_mobile
    cd InvestSmart
 npm install
 npm start
